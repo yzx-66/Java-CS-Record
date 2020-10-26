@@ -212,3 +212,23 @@ java.lang.OutOfMemoryError:GC overhead limit exceeded
 * 假设不抛出GC overhead limit错误，会发生GC清理的内存很快会再次填满，迫使GC再次执行，这样就形成恶性循环，CPU使用率一直是100%，而GC缺没有任何成果。
 * 解决办法:
   * 其实这是个预警，可以关闭verheadLimit， -XX:-UseGCOverheadLimit。但极其不推荐，只是推迟了 oom 的发生时间
+
+
+##### 案例：full gc频繁
+
+full gc 原因
+
+* meta space 达到 MetaspaceSize
+* young gen 晋升 old gen 没有空间
+
+* 大对象没有空间（g1 的 Humongous  region，分代的 PretenureSizeThreshold )
+* 主动触发(System.gc，一般使用 directBuffer 之后可能主动触发，防止 oom direct buffer memory)
+
+
+
+结合情况具体分析
+
+* 元空间溢出导致的（即 tracer 中查看是否 use 总是接近 size）：增大 MetaspaceSize，改写代码（自定类加载器）
+* 老年代空间不够的（即 tracer 中查看是否 Heap 总是接近 size）：增大堆内存，改写代码（是否存在内存泄漏或者其他逻辑错误）
+* 大对象找不到内存空间的（即 tracer 中查看是否 Heap 总是接近 size）：增大堆内存，或者增大大对象的阈值，让其进入新生代
+* System.gc() 的（即 Heap 和 metaspace 都不接近 size）：不许调用 System.gc，-XX:+DisableExplicitGC
