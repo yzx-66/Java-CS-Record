@@ -53,7 +53,7 @@ set
 
 ### Java 并发
 基础
-* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E5%B9%B6%E5%8F%91/%E5%9F%BA%E7%A1%80/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md'>基础知识 </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E5%B9%B6%E5%8F%91/%E5%9F%BA%E7%A1%80/%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.md'>基础知识与概念 </a>
 
 底层
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E5%B9%B6%E5%8F%91/%E5%BA%95%E5%B1%82/JMM%20%E5%85%A8%E8%A7%A3.md'>JMM 全解 </a>
@@ -125,7 +125,7 @@ JUC
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/JVM/%E7%BC%96%E8%AF%91%E4%B8%8E%E4%BC%98%E5%8C%96/2%E3%80%81%E5%90%8E%E7%AB%AF%E7%BC%96%E8%AF%91%E4%BC%98%E5%8C%96.md'>2、后端编译优化 </a>
 
 
-### Redis
+### Redis 底层实现
 正在进行...
 ### 数据库系统
 待续...
