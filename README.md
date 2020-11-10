@@ -9,6 +9,13 @@
 
 最后，欢迎大家 star 该项目，毕竟一个模块梳理完也需要花费十天到半个月时间，都开源出来也是为了帮助更多小伙伴，希望多多支持呀！
 
+<p align="center">
+  <a href="https://blog.csdn.net/weixin_43934607"><img src="https://img.shields.io/badge/%E5%8D%9A%E5%AE%A2-%E5%90%8C%E6%AD%A5%E6%9B%B4%E6%96%B0-orange"></a>
+  <img src="https://img.shields.io/badge/Java-%E5%90%8E%E5%8F%B0%E5%BC%80%E5%8F%91-yellowgreen">
+  <img src="https://img.shields.io/badge/%E7%89%B9%E7%82%B9-%E8%BE%83%E4%BD%93%E7%B3%BB%E5%8C%96-green">
+  <img src="https://img.shields.io/badge/%E5%86%85%E5%AE%B9-%E6%BA%90%E7%A0%81%E5%BA%95%E5%B1%82%E4%B8%BA%E4%B8%BB-brightgreen"> 
+</p>
+
 # 目录
 ## 一期（基础）
 ### Java 必备知识
