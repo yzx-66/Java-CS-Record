@@ -190,7 +190,7 @@ JUC
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%BB%BA%E6%A8%A1%E8%AE%BE%E8%AE%A1/5%E3%80%81%E6%A8%A1%E5%BC%8F%E5%88%86%E8%A7%A3.md'> 5、模式分解 </a>
 
 实现技术
-* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%AE%9E%E7%8E%B0%E6%8A%80%E6%9C%AF/1%E3%80%81%E5%AD%98%E5%82%A8%E4%BD%93%E7%B3%BB.md'> 1、存储体系 </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%AE%9E%E7%8E%B0%E6%8A%80%E6%9C%AF/1%E3%80%81%E5%AD%98%E5%82%A8%E4%BD%93%E7%B3%BB.md'> 1、存储体系与组织 </a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%AE%9E%E7%8E%B0%E6%8A%80%E6%9C%AF/2%E3%80%81%E7%B4%A2%E5%BC%95%E5%8F%8A%E5%88%86%E7%B1%BB.md'> 2、索引存储及分类 </a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%AE%9E%E7%8E%B0%E6%8A%80%E6%9C%AF/3%E3%80%81B%2B%E6%A0%91%E7%B4%A2%E5%BC%95%E7%BB%93%E6%9E%84.md'> 3、B+树索引结构 </a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%AE%9E%E7%8E%B0%E6%8A%80%E6%9C%AF/4%E3%80%81%E6%95%A3%E5%88%97%E7%B4%A2%E5%BC%95%E7%BB%93%E6%9E%84.md'> 4、散列索引结构 </a>
