@@ -187,11 +187,11 @@ JUC
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E6%A0%87%E5%87%86SQL/4%E3%80%81%E5%B5%8C%E5%85%A5%E5%BC%8FSQL.md'> 4、嵌入式SQL </a>
 
 建模设计
-* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%BB%BA%E6%A8%A1%E8%AE%BE%E8%AE%A1/1%E3%80%81E-R%E6%A8%A1%E5%9E%8B.md'> 1、E-R模型 </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%BB%BA%E6%A8%A1%E8%AE%BE%E8%AE%A1/1%E3%80%81E-R%E6%A8%A1%E5%9E%8B.md'> 1、数据库E-R模型 </a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%BB%BA%E6%A8%A1%E8%AE%BE%E8%AE%A1/2%E3%80%81IDEF1x%E5%B7%A5%E7%A8%8B%E5%8C%96%E6%96%B9%E6%B3%95.md'> 2、IDEF1x工程化方法 </a>
-* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%BB%BA%E6%A8%A1%E8%AE%BE%E8%AE%A1/3%E3%80%81%E5%87%BD%E6%95%B0%E4%BE%9D%E8%B5%96.md'> 3、函数依赖 </a>
-* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%BB%BA%E6%A8%A1%E8%AE%BE%E8%AE%A1/4%E3%80%81%E5%85%B3%E7%B3%BB%E8%8C%83%E5%BC%8F.md'> 4、关系范式 </a>
-* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%BB%BA%E6%A8%A1%E8%AE%BE%E8%AE%A1/5%E3%80%81%E6%A8%A1%E5%BC%8F%E5%88%86%E8%A7%A3.md'> 5、模式分解 </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%BB%BA%E6%A8%A1%E8%AE%BE%E8%AE%A1/3%E3%80%81%E5%87%BD%E6%95%B0%E4%BE%9D%E8%B5%96.md'> 3、关系函数依赖 </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%BB%BA%E6%A8%A1%E8%AE%BE%E8%AE%A1/4%E3%80%81%E5%85%B3%E7%B3%BB%E8%8C%83%E5%BC%8F.md'> 4、五大关系范式 </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%BB%BA%E6%A8%A1%E8%AE%BE%E8%AE%A1/5%E3%80%81%E6%A8%A1%E5%BC%8F%E5%88%86%E8%A7%A3.md'> 5、关系模式分解 </a>
 
 实现技术
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%AE%9E%E7%8E%B0%E6%8A%80%E6%9C%AF/1%E3%80%81%E5%AD%98%E5%82%A8%E4%BD%93%E7%B3%BB.md'> 1、存储体系与组织 </a>
