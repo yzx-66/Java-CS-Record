@@ -145,7 +145,7 @@ JUC
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/Redis/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E5%AF%B9%E8%B1%A1/3%E3%80%81RedisObject%E5%AE%9E%E7%8E%B0.md'> 3、RedisObject 实现 </a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/Redis/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E5%AF%B9%E8%B1%A1/4%E3%80%81%E4%BA%94%E7%A7%8D%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B%E5%AF%B9%E8%B1%A1%E5%AE%9E%E7%8E%B0.md'> 4、五种基本类型对象实现 </a>
 
-核心实现
+内部核心实现
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/Redis/Redis%E5%AE%9E%E7%8E%B0/1%E3%80%81%E4%BA%8B%E4%BB%B6%E9%A9%B1%E5%8A%A8%E6%A8%A1%E5%9E%8B%E5%AE%9E%E7%8E%B0.md'>1、事件驱动模型实现  </a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/Redis/Redis%E5%AE%9E%E7%8E%B0/2%E3%80%81RedisServer%E5%AE%9E%E7%8E%B0.md'>2、RedisServer 实现  </a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/Redis/Redis%E5%AE%9E%E7%8E%B0/3%E3%80%81%E5%88%9D%E5%A7%8B%E5%8C%96%E6%9C%8D%E5%8A%A1%E5%99%A8.md'>  3、初始化服务器</a>
@@ -153,11 +153,11 @@ JUC
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/Redis/Redis%E5%AE%9E%E7%8E%B0/5%E3%80%81RedisDB%E5%AE%9E%E7%8E%B0.md'> 5、RedisDB 实现 </a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/Redis/Redis%E5%AE%9E%E7%8E%B0/6%E3%80%81%E8%BF%87%E6%9C%9F%E9%94%AE%E5%A4%84%E7%90%86.md'>6、过期键处理  </a>
 
-持久化
+持久化实现
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/Redis/%E6%8C%81%E4%B9%85%E5%8C%96/1%E3%80%81RDB%E5%AE%9E%E7%8E%B0.md'>1、RDB 实现  </a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/Redis/%E6%8C%81%E4%B9%85%E5%8C%96/2%E3%80%81AOF%E5%AE%9E%E7%8E%B0.md'> 2、AOF 实现 </a>
 
-多机功能
+多机功能实现
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/Redis/%E5%A4%9A%E6%9C%BA/1%E3%80%81%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6%E5%AE%9E%E7%8E%B0.md'> 1、主从复制实现 </a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/Redis/%E5%A4%9A%E6%9C%BA/2%E3%80%81%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6%E6%AD%A5%E9%AA%A4.md'> 2、主从复制步骤 </a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/Redis/%E5%A4%9A%E6%9C%BA/3%E3%80%81%E5%93%A8%E5%85%B5Sentinel%E5%AE%9E%E7%8E%B0.md'>3、哨兵 Sentinel 实现  </a>
@@ -166,7 +166,7 @@ JUC
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/Redis/%E5%A4%9A%E6%9C%BA/6%E3%80%81%E9%9B%86%E7%BE%A4MOVED%E9%94%99%E8%AF%AF%E4%B8%8EASK%E9%94%99%E8%AF%AF.md'> 6、集群 MOVED 错误与 ASK 错误 </a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/Redis/%E5%A4%9A%E6%9C%BA/7%E3%80%81%E9%9B%86%E7%BE%A4%E5%86%85%E9%83%A8%E6%B6%88%E6%81%AF.md'>7、集群内部消息  </a>
 
-独立功能
+独立功能实现
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/Redis/%E7%8B%AC%E7%AB%8B%E5%8A%9F%E8%83%BD/%E9%80%9A%E7%9F%A5%E5%8A%9F%E8%83%BD%E5%AE%9E%E7%8E%B0.md'>  通知功能实现</a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/Redis/%E7%8B%AC%E7%AB%8B%E5%8A%9F%E8%83%BD/%E5%8F%91%E5%B8%83%E8%AE%A2%E9%98%85%E5%AE%9E%E7%8E%B0.md'> 发布订阅实现 </a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/Redis/%E7%8B%AC%E7%AB%8B%E5%8A%9F%E8%83%BD/%E6%85%A2%E6%9F%A5%E8%AF%A2%E6%97%A5%E5%BF%97%E5%AE%9E%E7%8E%B0.md'> 慢查询日志实现 </a>
