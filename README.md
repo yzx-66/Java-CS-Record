@@ -16,7 +16,8 @@
   <a href="https://blog.csdn.net/weixin_43934607"><img src="https://img.shields.io/badge/Blog-%E5%90%8C%E6%AD%A5%E6%9B%B4%E6%96%B0-orange"></a>
 </p>
 
-**目录**
+<h1 align="center">目录</h1>
+
 # 一期（基础）
 ## 1、核心基础
 ### Java 必备知识
