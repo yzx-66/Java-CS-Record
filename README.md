@@ -172,7 +172,7 @@ JUC
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/Redis/%E7%8B%AC%E7%AB%8B%E5%8A%9F%E8%83%BD/%E7%9B%91%E8%A7%86%E5%99%A8%E5%AE%9E%E7%8E%B0.md'> 监视器实现 </a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/Redis/%E7%8B%AC%E7%AB%8B%E5%8A%9F%E8%83%BD/%E4%BA%8B%E5%8A%A1%E5%8A%9F%E8%83%BD%E5%AE%9E%E7%8E%B0.md'> 事务功能实现 </a>
 
-### 2、计算机基础
+### 2、专业基础
 #### 数据库系统
 概述
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E6%80%BB%E4%BD%93%E6%A6%82%E8%BF%B0.md'> 总体概述  </a>
