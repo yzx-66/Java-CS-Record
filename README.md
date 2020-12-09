@@ -18,7 +18,7 @@
 
 <h1 align="center">目录</h1>
 
-# 一期（基础）
+# 基础
 ## 1、核心基础
 ### Java 必备知识
 <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E5%BF%85%E5%A4%87%E7%9F%A5%E8%AF%86/%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B%E4%B8%8E%E5%8C%85%E8%A3%85%E7%B1%BB%E6%A2%B3%E7%90%86%E5%8F%8A%E6%BA%90%E7%A0%81.md '>基本类型与包装类梳理及源码 </a>
@@ -219,7 +219,7 @@ JUC
 待续...
 ###  算法
 待续...
-# 二期（Web组件）
+# Web组件
 ## Spring
 待续...
 ## SpringMVC
@@ -233,7 +233,7 @@ JUC
 ## Web其余
 待续...
 
-# 三期（分布式）
+# 分布式
 ## 消息队列
 待续...
 ## 微服务框架
