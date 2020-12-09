@@ -18,7 +18,7 @@
 
 # 目录
 ## 一期（基础）
-### Java 开发
+### 1、Java 开发
 #### Java 必备知识
 <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E5%BF%85%E5%A4%87%E7%9F%A5%E8%AF%86/%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B%E4%B8%8E%E5%8C%85%E8%A3%85%E7%B1%BB%E6%A2%B3%E7%90%86%E5%8F%8A%E6%BA%90%E7%A0%81.md '>基本类型与包装类梳理及源码 </a>
 
@@ -172,7 +172,7 @@ JUC
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/Redis/%E7%8B%AC%E7%AB%8B%E5%8A%9F%E8%83%BD/%E7%9B%91%E8%A7%86%E5%99%A8%E5%AE%9E%E7%8E%B0.md'> 监视器实现 </a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/Redis/%E7%8B%AC%E7%AB%8B%E5%8A%9F%E8%83%BD/%E4%BA%8B%E5%8A%A1%E5%8A%9F%E8%83%BD%E5%AE%9E%E7%8E%B0.md'> 事务功能实现 </a>
 
-### 计算机
+### 2、计算机
 #### 数据库系统
 <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E6%80%BB%E4%BD%93%E6%A6%82%E8%BF%B0.md'> 总体概述  </a>
 
