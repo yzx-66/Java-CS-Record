@@ -19,7 +19,7 @@
 <h1 align="center">目录</h1>
 
 # 基础
-## 1、核心基础
+## 1、Java 核心
 ### Java 必备知识
 <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E5%BF%85%E5%A4%87%E7%9F%A5%E8%AF%86/%E5%9F%BA%E6%9C%AC%E7%B1%BB%E5%9E%8B%E4%B8%8E%E5%8C%85%E8%A3%85%E7%B1%BB%E6%A2%B3%E7%90%86%E5%8F%8A%E6%BA%90%E7%A0%81.md '>基本类型与包装类梳理及源码 </a>
 
@@ -137,7 +137,7 @@ JUC
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/JVM/%E7%BC%96%E8%AF%91%E4%B8%8E%E4%BC%98%E5%8C%96/1%E3%80%81%E5%89%8D%E7%AB%AF%E7%BC%96%E8%AF%91%E4%B8%8E%E8%AF%AD%E6%B3%95%E7%B3%96.md'>1、前端编译与语法糖 </a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/JVM/%E7%BC%96%E8%AF%91%E4%B8%8E%E4%BC%98%E5%8C%96/2%E3%80%81%E5%90%8E%E7%AB%AF%E7%BC%96%E8%AF%91%E4%BC%98%E5%8C%96.md'>2、后端编译优化 </a>
 
-
+## 2、数据库
 ### Redis 底层实现
 数据结构与对象
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/Redis/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E5%AF%B9%E8%B1%A1/1%E3%80%81SDS%E3%80%81%E6%95%B4%E6%95%B0%E9%9B%86%E5%90%88%E3%80%81%E5%8E%8B%E7%BC%A9%E5%88%97%E8%A1%A8.md'> 1、SDS、整数集合、压缩列表 </a>
@@ -173,7 +173,6 @@ JUC
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/Redis/%E7%8B%AC%E7%AB%8B%E5%8A%9F%E8%83%BD/%E7%9B%91%E8%A7%86%E5%99%A8%E5%AE%9E%E7%8E%B0.md'> 监视器实现 </a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/Redis/%E7%8B%AC%E7%AB%8B%E5%8A%9F%E8%83%BD/%E4%BA%8B%E5%8A%A1%E5%8A%9F%E8%83%BD%E5%AE%9E%E7%8E%B0.md'> 事务功能实现 </a>
 
-## 2、专业基础
 ### 数据库原理
 概述
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E6%80%BB%E4%BD%93%E6%A6%82%E8%BF%B0.md'> 总体概述  </a>
@@ -209,6 +208,7 @@ JUC
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%AE%9E%E7%8E%B0%E6%8A%80%E6%9C%AF/9%E3%80%81%E5%9F%BA%E4%BA%8E%E5%9B%9E%E6%BB%9A%E4%BA%8B%E5%8A%A1'> 9、基于回滚事务调度 </a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%AE%9E%E7%8E%B0%E6%8A%80%E6%9C%AF/10%E3%80%81%E6%95%85%E9%9A%9C%E6%81%A2%E5%A4%8D.md'> 10、故障恢复实现 </a>
 
+## 3、专业基础
 ### 计算机组成原理
 概述
 硬件结构
