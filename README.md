@@ -210,7 +210,10 @@ JUC
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%AE%9E%E7%8E%B0%E6%8A%80%E6%9C%AF/10%E3%80%81%E6%95%85%E9%9A%9C%E6%81%A2%E5%A4%8D.md'> 10、故障恢复实现 </a>
 
 ### 计算机组成原理
-正在进行
+概述
+硬件结构
+CPU
+CU
 ### 操作系统
 待续...
 ### 计算机网络
