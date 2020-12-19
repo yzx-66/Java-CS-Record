@@ -231,7 +231,7 @@ CPU
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/CPU/8%E3%80%81%E4%B8%AD%E6%96%AD%E7%B3%BB%E7%BB%9F.md'> 8、中断系统 </a>
 
 CU
-* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/CU/1%E3%80%81%E6%8E%A7%E5%88%B6%E5%8D%95%E5%85%83%E4%B8%8E%E5%BE%AE%E6%93%8D%E4%BD%9C.md'> 1、C微操作与CU </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/CU/1%E3%80%81%E6%8E%A7%E5%88%B6%E5%8D%95%E5%85%83%E4%B8%8E%E5%BE%AE%E6%93%8D%E4%BD%9C.md'> 1、微操作与 CU </a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/CU/2%E3%80%81%E7%BB%84%E5%90%88%E9%80%BB%E8%BE%91%E8%AE%BE%E8%AE%A1.md'>  2、组合逻辑设计</a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/CU/3%E3%80%81%E5%BE%AE%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1.md'> 3、微程序设计 </a>
 
