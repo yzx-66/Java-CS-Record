@@ -226,7 +226,7 @@ CPU
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/CPU/3%E3%80%81%E7%AE%97%E6%9C%AF%E9%80%BB%E8%BE%91%E5%8D%95%E5%85%83.md'>3、算术逻辑单元  </a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/CPU/4%E3%80%81%E6%8C%87%E4%BB%A4%E7%B3%BB%E7%BB%9F.md'> 4、指令系统 </a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/CPU/5%E3%80%81%E5%AF%BB%E5%9D%80%E4%B8%8E%E8%AE%BE%E8%AE%A1.md'>5、寻址与设计  </a>
-* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/CPU/6%E3%80%81CPU%E7%BB%93%E6%9E%84.md'> 6、CPU结构 </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/CPU/6%E3%80%81CPU%E7%BB%93%E6%9E%84.md'> 6、CPU 结构 </a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/CPU/7%E3%80%81%E6%8C%87%E4%BB%A4%E6%B5%81%E6%B0%B4.md'>7、指令流水  </a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/CPU/8%E3%80%81%E4%B8%AD%E6%96%AD%E7%B3%BB%E7%BB%9F.md'> 8、中断系统 </a>
 
