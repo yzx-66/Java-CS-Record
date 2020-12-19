@@ -208,7 +208,7 @@ JUC
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%AE%9E%E7%8E%B0%E6%8A%80%E6%9C%AF/9%E3%80%81%E5%9F%BA%E4%BA%8E%E5%9B%9E%E6%BB%9A%E4%BA%8B%E5%8A%A1'> 9、基于回滚事务调度 </a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%AE%9E%E7%8E%B0%E6%8A%80%E6%9C%AF/10%E3%80%81%E6%95%85%E9%9A%9C%E6%81%A2%E5%A4%8D.md'> 10、故障恢复实现 </a>
 
-## 3、计算机基础
+## 3、计算机
 ### 计算机组成原理
 概论
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/%E6%A6%82%E8%AE%BA/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%80%BB%E4%BD%93%E6%A6%82%E8%BF%B0.md'> 计算机总体概述 </a>
