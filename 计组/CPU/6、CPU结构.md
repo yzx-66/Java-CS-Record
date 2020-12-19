@@ -78,15 +78,15 @@
 
   * 每条指令的指令周期不同
 
-    <img src="https://img-blog.csdnimg.cn/20201219140856546.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzkzNDYwNw==,size_16,color_FFFFFF,t_7" width="50%" height="50%"  />
+    <img src="https://img-blog.csdnimg.cn/20201219140856546.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzkzNDYwNw==,size_16,color_FFFFFF,t_7" width="40%" height="50%"  />
 
 * 具有间接寻址的指令周期
 
-  <img src="https://img-blog.csdnimg.cn/20201219140924733.png" width="50%" height="50%" />
+  <img src="https://img-blog.csdnimg.cn/20201219140924733.png" width="40%" height="50%" />
 
 * 带有中断周期的指令周期
 
-  <img src="https://img-blog.csdnimg.cn/20201219140951240.png" width="50%" height="50%" />
+  <img src="https://img-blog.csdnimg.cn/20201219140951240.png" width="40%" height="50%" />
 
 * 指令周期流程
 
@@ -100,7 +100,7 @@
     * （间址周期）存取 操作数或结果
     * （中断周期）存程序断点
 
-  <img src="https://img-blog.csdnimg.cn/20201219141034953.png" width="50%" height="50%" />
+  <img src="https://img-blog.csdnimg.cn/20201219141034953.png" width="40%" height="50%" />
 
 
 
@@ -108,11 +108,11 @@
 
 * 取指周期数据流
 
-  <img src="https://img-blog.csdnimg.cn/20201219141100711.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzkzNDYwNw==,size_16,color_FFFFFF,t_70" width="40%" height="50%"  />
+  <img src="https://img-blog.csdnimg.cn/20201219141100711.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzkzNDYwNw==,size_16,color_FFFFFF,t_70" width="30%" height="50%"  />
 
 * 间址周期数据流
 
-  <img src="https://img-blog.csdnimg.cn/2020121914113043.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzkzNDYwNw==,size_16,color_FFFFFF,t_70" width="40%" height="50%"  />
+  <img src="https://img-blog.csdnimg.cn/2020121914113043.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzkzNDYwNw==,size_16,color_FFFFFF,t_70" width="30%" height="50%"  />
 
 * 执行周期数据流
 
@@ -120,5 +120,5 @@
 
 * 中断周期数据流
 
-  <img src="https://img-blog.csdnimg.cn/20201219141152697.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzkzNDYwNw==,size_16,color_FFFFFF,t_70" width="40%" height="50%" />
+  <img src="https://img-blog.csdnimg.cn/20201219141152697.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzkzNDYwNw==,size_16,color_FFFFFF,t_70" width="30%" height="50%" />
 
