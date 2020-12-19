@@ -210,10 +210,31 @@ JUC
 
 ## 3、计算机
 ### 计算机组成原理
-概述
+概论
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/%E6%A6%82%E8%AE%BA/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%80%BB%E4%BD%93%E6%A6%82%E8%BF%B0.md'> 计算机总体概述 </a>
+
 硬件结构
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/%E7%A1%AC%E4%BB%B6%E7%BB%93%E6%9E%84/1%E3%80%81%E7%B3%BB%E7%BB%9F%E6%80%BB%E7%BA%BF.md'> 1、系统总线 </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/%E7%A1%AC%E4%BB%B6%E7%BB%93%E6%9E%84/2%E3%80%81%E5%AD%98%E5%82%A8%E5%99%A8.md'> 2、存储器 </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/%E7%A1%AC%E4%BB%B6%E7%BB%93%E6%9E%84/3%E3%80%81%E4%B8%BB%E5%AD%98%E5%82%A8%E5%99%A8.md'>3、主存储器  </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/%E7%A1%AC%E4%BB%B6%E7%BB%93%E6%9E%84/4%E3%80%81IO%E7%B3%BB%E7%BB%9F.md'> 4、IO系统 </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/%E7%A1%AC%E4%BB%B6%E7%BB%93%E6%9E%84/5%E3%80%81IO%E6%8E%A7%E5%88%B6%E6%96%B9%E5%BC%8F.md'>5、IO控制方式  </a>
+
 CPU
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/CPU/1%E3%80%81%E6%95%B0%E7%9A%84%E8%A1%A8%E7%A4%BA.md'>1、数的表示  </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/CPU/2%E3%80%81%E6%95%B0%E7%9A%84%E8%BF%90%E7%AE%97.md'>2、数的运算  </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/CPU/3%E3%80%81%E7%AE%97%E6%9C%AF%E9%80%BB%E8%BE%91%E5%8D%95%E5%85%83.md'>3、算术逻辑单元  </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/CPU/4%E3%80%81%E6%8C%87%E4%BB%A4%E7%B3%BB%E7%BB%9F.md'> 4、指令系统 </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/CPU/5%E3%80%81%E5%AF%BB%E5%9D%80%E4%B8%8E%E8%AE%BE%E8%AE%A1.md'>5、寻址与设计  </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/CPU/6%E3%80%81CPU%E7%BB%93%E6%9E%84.md'> 6、CPU结构 </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/CPU/7%E3%80%81%E6%8C%87%E4%BB%A4%E6%B5%81%E6%B0%B4.md'>7、指令流水  </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/CPU/8%E3%80%81%E4%B8%AD%E6%96%AD%E7%B3%BB%E7%BB%9F.md'> 8、中断系统 </a>
+
 CU
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/CU/1%E3%80%81%E6%8E%A7%E5%88%B6%E5%8D%95%E5%85%83%E4%B8%8E%E5%BE%AE%E6%93%8D%E4%BD%9C.md'> 1、控制单元与微操作 </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/CU/2%E3%80%81%E7%BB%84%E5%90%88%E9%80%BB%E8%BE%91%E8%AE%BE%E8%AE%A1.md'>  2、组合逻辑设计</a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/CU/3%E3%80%81%E5%BE%AE%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1.md'> 3、微程序设计 </a>
+
 ### 计算机系统结构
 正在进行
 ### 操作系统
