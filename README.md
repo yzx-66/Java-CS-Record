@@ -55,7 +55,7 @@ list
 map
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E9%9B%86%E5%90%88/map/HashMap%E6%BA%90%E7%A0%81%E8%AF%A6%E8%A7%A3%EF%BC%88%E4%B8%8A%EF%BC%89.md'>HashMap 核心方法源码详解 </a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E9%9B%86%E5%90%88/map/HashMap%E6%BA%90%E7%A0%81%E8%AF%A6%E8%A7%A3%EF%BC%88%E4%B8%8B%EF%BC%89.md '>HashMap 次要方法源码详解 </a>
-* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E9%9B%86%E5%90%88/map/HashMap%E6%BA%90%E7%A0%81%E8%A1%A5%E5%85%85.md '>HashMap 源码补充 </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E9%9B%86%E5%90%88/map/HashMap%E6%BA%90%E7%A0%81%E8%A1%A5%E5%85%85.md '>HashMap 知识扩充 </a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E9%9B%86%E5%90%88/map/LinkedHashMap%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md'> LinkedHashMap 源码解析</a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E9%9B%86%E5%90%88/map/TreeMap%E6%BA%90%E7%A0%81%E8%AF%A6%E8%A7%A3%EF%BC%88%E4%B8%8A%EF%BC%89.md '>TreeMap 核心方法源码详解 </a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E9%9B%86%E5%90%88/map/TreeMap%E6%BA%90%E7%A0%81%E8%AF%A6%E8%A7%A3%EF%BC%88%E4%B8%8B%EF%BC%89.md '>TreeMap 次要方法源码详解 </a>
