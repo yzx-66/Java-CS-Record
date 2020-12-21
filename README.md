@@ -28,7 +28,7 @@
 
 * <a href = 'https://github.com/yzx66-net/Java_Review/blob/main/%E5%BF%85%E5%A4%87%E7%9F%A5%E8%AF%86/Object%E7%B1%BB%E4%B8%8E%E7%9B%B8%E5%85%B3%E9%97%AE%E9%A2%98.md'>Object 类与相关问题</a>
 
-* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E5%BF%85%E5%A4%87%E7%9F%A5%E8%AF%86/%E5%BC%82%E5%B8%B8%E4%BD%93%E7%B3%BB%E5%8F%8A%E5%A4%84%E7%90%86%E5%92%8C%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99.md '>异常体系及处理和设计 </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E5%BF%85%E5%A4%87%E7%9F%A5%E8%AF%86/%E5%BC%82%E5%B8%B8%E4%BD%93%E7%B3%BB%E5%8F%8A%E5%A4%84%E7%90%86%E5%92%8C%E8%AE%BE%E8%AE%A1%E5%8E%9F%E5%88%99.md '>异常体系及处理和设计原则 </a>
 
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E5%BF%85%E5%A4%87%E7%9F%A5%E8%AF%86/final%E5%A5%97%E9%A4%90%E5%8F%8A%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98.md '>final 套餐及常见问题 </a>
 
