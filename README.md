@@ -225,7 +225,34 @@ CU
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/CU/3%E3%80%81%E5%BE%AE%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1.md'> 3、微程序设计 </a>
 
 ### 体系结构
-正在进行...
+概论
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E6%A6%82%E8%AE%BA/%E5%85%A8%E5%B1%80%E6%A6%82%E8%BF%B0.md'>全局概述  </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E6%A6%82%E8%AE%BA/%E8%A7%84%E5%88%99%E4%B8%8E%E5%85%AC%E5%BC%8F.md'> 规则与公式 </a>
+
+指令系统
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E6%8C%87%E4%BB%A4%E7%B3%BB%E7%BB%9F/1%E3%80%81%E6%8C%87%E4%BB%A4%E9%9B%86%E4%B8%8EMIPS.md'> 1、指令集与MIPS </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E6%8C%87%E4%BB%A4%E7%B3%BB%E7%BB%9F/2%E3%80%81%E6%B5%81%E6%B0%B4%E7%BA%BF%E6%80%A7%E8%83%BD.md'> 2、流水线性能 </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E6%8C%87%E4%BB%A4%E7%B3%BB%E7%BB%9F/3%E3%80%81%E9%9D%9E%E7%BA%BF%E6%80%A7%E6%B5%81%E6%B0%B4%E8%B0%83%E5%BA%A6.md'> 3、非线性流水调度 </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E6%8C%87%E4%BB%A4%E7%B3%BB%E7%BB%9F/4%E3%80%81%E7%9B%B8%E5%85%B3%E4%B8%8E%E5%86%B2%E7%AA%81.md'> 4、相关与冲突 </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E6%8C%87%E4%BB%A4%E7%B3%BB%E7%BB%9F/5%E3%80%81%E6%B5%81%E6%B0%B4%E7%BA%BF%E5%AE%9E%E7%8E%B0.md'> 5、流水线实现 </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E6%8C%87%E4%BB%A4%E7%B3%BB%E7%BB%9F/6%E3%80%81%E6%8C%87%E4%BB%A4%E5%B9%B6%E8%A1%8C.md'>6、指令并行  </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E6%8C%87%E4%BB%A4%E7%B3%BB%E7%BB%9F/7%E3%80%81%E6%8C%87%E4%BB%A4%E8%B0%83%E5%BA%A6.md'> 7、指令调度 </a>
+
+硬件系统
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E7%A1%AC%E4%BB%B6%E7%B3%BB%E7%BB%9F/1%E3%80%81Cache%E6%98%A0%E5%83%8F%E5%8F%8A%E5%8F%98%E6%8D%A2.md'> 1、Cache映像及变换 </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E7%A1%AC%E4%BB%B6%E7%B3%BB%E7%BB%9F/2%E3%80%81%E6%8F%90%E9%AB%98Cache%E5%91%BD%E4%B8%AD%E7%8E%87.md'> 2、提高Cache命中率 </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E7%A1%AC%E4%BB%B6%E7%B3%BB%E7%BB%9F/3%E3%80%81%E9%99%8D%E4%BD%8ECache%E5%BC%80%E9%94%80.md'>3、降低Cache开销  </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E7%A1%AC%E4%BB%B6%E7%B3%BB%E7%BB%9F/4%E3%80%81%E5%B9%B6%E8%A1%8C%E4%B8%BB%E5%AD%98.md'> 4、并行主存 </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E7%A1%AC%E4%BB%B6%E7%B3%BB%E7%BB%9F/5%E3%80%81%E8%99%9A%E6%8B%9F%E5%AD%98%E5%82%A8%E5%99%A8.md'> 5、虚拟存储器 </a>
+
+多处理器
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E5%A4%9A%E5%A4%84%E7%90%86%E5%99%A8/1%E3%80%81%E4%BA%92%E8%BF%9E%E7%BD%91%E7%BB%9C.md'> 1、互连网络 </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E5%A4%9A%E5%A4%84%E7%90%86%E5%99%A8/2%E3%80%81%E5%8A%A8%E6%80%81%E4%BA%92%E8%BF%9E%E7%BD%91%E7%BB%9C.md'> 2、动态互连网络 </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E5%A4%9A%E5%A4%84%E7%90%86%E5%99%A8/3%E3%80%81%E5%A4%9A%E5%A4%84%E7%90%86%E5%99%A8.md'>3、多处理器  </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E5%A4%9A%E5%A4%84%E7%90%86%E5%99%A8/4%E3%80%81%E4%B8%80%E8%87%B4%E6%80%A7%E9%97%AE%E9%A2%98.md'>4、一致性问题  </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E5%A4%9A%E5%A4%84%E7%90%86%E5%99%A8/5%E3%80%81%E5%90%8C%E6%AD%A5%E5%AE%9E%E7%8E%B0.md'> 5、同步实现 </a>
+* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E5%A4%9A%E5%A4%84%E7%90%86%E5%99%A8/6%E3%80%81%E5%B9%B6%E5%8F%91%E4%BF%9D%E8%AF%81.md'> 6、并发保证 </a>
+
 ### 操作系统
 正在进行...
 ### 计算机网络
