@@ -20,8 +20,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%E5%90%8E%E5%8F%B0%E5%BC%80%E5%8F%91-yellowgreen">
-  <img src="https://img.shields.io/badge/Feature-%E8%BE%83%E4%BD%93%E7%B3%BB%E5%8C%96%E8%AE%B2%E8%A7%A3-brightgreen">
-  <img src="https://img.shields.io/badge/Content-%E6%BA%90%E7%A0%81%E5%BA%95%E5%B1%82%E4%B8%BA%E4%B8%BB-brightgreen"> 
+  <img src="https://img.shields.io/badge/Content-%E5%8E%9F%E7%90%86%E6%BA%90%E7%A0%81-brightgreen">
+  <img src="https://img.shields.io/badge/CS-%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80-brightgreen"> 
   <a href="https://blog.csdn.net/weixin_43934607"><img src="https://img.shields.io/badge/Blog-%E5%90%8C%E6%AD%A5%E6%9B%B4%E6%96%B0-orange"></a>
 </p>
 
