@@ -167,8 +167,7 @@ JUC
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/Redis/%E7%8B%AC%E7%AB%8B%E5%8A%9F%E8%83%BD/%E4%BA%8B%E5%8A%A1%E5%8A%9F%E8%83%BD%E5%AE%9E%E7%8E%B0.md'> 事务功能实现 </a>
 
 ### 数据库原理
-概述
-* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E6%80%BB%E4%BD%93%E6%A6%82%E8%BF%B0.md'> 总体概述  </a>
+<a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E6%80%BB%E4%BD%93%E6%A6%82%E8%BF%B0.md'> 总体概述  </a>
 
 关系模型
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%85%B3%E7%B3%BB%E6%A8%A1%E5%9E%8B/1%E3%80%81%E7%BB%93%E6%9E%84%E4%B8%8E%E6%A8%A1%E5%9E%8B.md'> 1、结构与模型 </a>
@@ -203,8 +202,7 @@ JUC
 
 ## 3、计算机
 ### 组成原理
-概论
-* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/%E6%A6%82%E8%AE%BA/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%80%BB%E4%BD%93%E6%A6%82%E8%BF%B0.md'> 计算机总体概述 </a>
+<a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/%E6%A6%82%E8%AE%BA/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%80%BB%E4%BD%93%E6%A6%82%E8%BF%B0.md'> 计算机总体概述 </a>
 
 硬件结构
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/%E7%A1%AC%E4%BB%B6%E7%BB%93%E6%9E%84/1%E3%80%81%E7%B3%BB%E7%BB%9F%E6%80%BB%E7%BA%BF.md'> 1、系统总线 </a>
@@ -229,9 +227,9 @@ CU
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/CU/3%E3%80%81%E5%BE%AE%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1.md'> 3、微程序设计 </a>
 
 ### 体系结构
-概论
-* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E6%A6%82%E8%AE%BA/%E5%85%A8%E5%B1%80%E6%A6%82%E8%BF%B0.md'>全局概述  </a>
-* <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E6%A6%82%E8%AE%BA/%E8%A7%84%E5%88%99%E4%B8%8E%E5%85%AC%E5%BC%8F.md'> 规则与公式 </a>
+<a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E6%A6%82%E8%AE%BA/%E5%85%A8%E5%B1%80%E6%A6%82%E8%BF%B0.md'>全局概述  </a>
+
+<a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E6%A6%82%E8%AE%BA/%E8%A7%84%E5%88%99%E4%B8%8E%E5%85%AC%E5%BC%8F.md'> 规则与公式 </a>
 
 指令系统
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E6%8C%87%E4%BB%A4%E7%B3%BB%E7%BB%9F/1%E3%80%81%E6%8C%87%E4%BB%A4%E9%9B%86%E4%B8%8EMIPS.md'> 1、指令集与MIPS </a>
