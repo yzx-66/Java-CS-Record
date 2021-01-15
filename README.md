@@ -10,7 +10,7 @@
 * <a href ='https://blog.csdn.net/weixin_43934607'>博客同步更新</a>，但是为了更好帮助想要使用或者进行改动的同学，所以**把所有 markdown 也在这完全开源**。
 
 
-最后，**欢迎 star 该项目，也欢迎使用、修改、批评我梳理的文档**，希望多多支持！
+最后，**欢迎 star 该项目，也欢迎使用、修改、与提出意见**，希望多多支持！
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%E5%90%8E%E5%8F%B0%E5%BC%80%E5%8F%91-yellowgreen">
