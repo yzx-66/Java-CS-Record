@@ -201,7 +201,7 @@ JUC
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E6%95%B0%E6%8D%AE%E5%BA%93/%E5%AE%9E%E7%8E%B0%E6%8A%80%E6%9C%AF/10%E3%80%81%E6%95%85%E9%9A%9C%E6%81%A2%E5%A4%8D.md'> 10、故障恢复实现 </a>
 
 ## 3、计算机
-### 组成原理
+### 计算机组成原理
 <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/%E6%A6%82%E8%AE%BA/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%80%BB%E4%BD%93%E6%A6%82%E8%BF%B0.md'> 计算机总体概述 </a>
 
 硬件结构
@@ -225,7 +225,7 @@ CU
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/CU/2%E3%80%81%E7%BB%84%E5%90%88%E9%80%BB%E8%BE%91%E8%AE%BE%E8%AE%A1.md'>  2、组合逻辑设计</a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/CU/3%E3%80%81%E5%BE%AE%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1.md'> 3、微程序设计 </a>
 
-### 体系结构
+### 计算机体系结构
 <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E6%A6%82%E8%AE%BA/%E5%85%A8%E5%B1%80%E6%A6%82%E8%BF%B0.md'>全局概述  </a>
 
 <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E6%A6%82%E8%AE%BA/%E8%A7%84%E5%88%99%E4%B8%8E%E5%85%AC%E5%BC%8F.md'> 规则与公式 </a>
