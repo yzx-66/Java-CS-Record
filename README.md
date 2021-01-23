@@ -254,7 +254,7 @@ CU
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E5%A4%9A%E5%A4%84%E7%90%86%E5%99%A8/5%E3%80%81%E5%90%8C%E6%AD%A5%E5%AE%9E%E7%8E%B0.md'> 5、同步实现 </a>
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E5%A4%9A%E5%A4%84%E7%90%86%E5%99%A8/6%E3%80%81%E5%B9%B6%E5%8F%91%E4%BF%9D%E8%AF%81.md'> 6、并发保证 </a>
 
-### 操作系统（Linux）
+### 操作系统原理（Linux）
 启动与接口
 * <a href ='https://github.com/yzx66-net/Java_Note/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E5%90%AF%E5%8A%A8%E4%B8%8E%E6%8E%A5%E5%8F%A3/1%E3%80%81Linux%20%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8%EF%BC%9Abootsect.s%E3%80%81setup.s.md'>1、Linux 系统启动：bootsect.s、setup.s  </a>
 * <a href ='https://github.com/yzx66-net/Java_Note/blob/main/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E5%90%AF%E5%8A%A8%E4%B8%8E%E6%8E%A5%E5%8F%A3/2%E3%80%81Linux%20%E7%B3%BB%E7%BB%9F%E5%90%AF%E5%8A%A8%EF%BC%9Ahead.s%E3%80%81main.c.md'> 2、Linux 系统启动：head.s、main.c </a>
