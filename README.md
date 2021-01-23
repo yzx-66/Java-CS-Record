@@ -312,13 +312,12 @@ Linux IO 特性
 * <a href ='https://github.com/yzx66-net/Java_Note/blob/main/%E8%AE%A1%E7%BD%91/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/3%E3%80%81IPSec%20%E5%8D%8F%E8%AE%AE.md'> 3、IPSec 协议 </a>
 
 
-## 软工与算法
-### 软件工程
-待续
-### 数据结构与算法
+## 算法基础
+### Leetcode 典例
 正在进行 ...
 
-
+### 数据结构
+...
 
 
 # 开发
@@ -355,11 +354,6 @@ Linux IO 特性
 ## 分布式相关
 待续...
 
-# 不定期更新
-## 算法刷题
-待续...
-## 零散知识
-待续...
 
 
 
