@@ -226,7 +226,7 @@ CU
 * <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E8%AE%A1%E7%BB%84/CU/3%E3%80%81%E5%BE%AE%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1.md'> 3、微程序设计 </a>
 
 ### 计算机体系结构
-<a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E6%A6%82%E8%AE%BA/%E5%85%A8%E5%B1%80%E6%A6%82%E8%BF%B0.md'>计算机体系结构概述  </a>
+<a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E6%A6%82%E8%AE%BA/%E5%85%A8%E5%B1%80%E6%A6%82%E8%BF%B0.md'>体系结构概述  </a>
 
 <a href ='https://github.com/yzx66-net/Java_Review/blob/main/%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/%E6%A6%82%E8%AE%BA/%E8%A7%84%E5%88%99%E4%B8%8E%E5%85%AC%E5%BC%8F.md'> 规则与公式 </a>
 
