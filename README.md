@@ -312,7 +312,23 @@ Linux IO 特性
 * <a href ='https://github.com/yzx66-net/Java_Note/blob/main/%E8%AE%A1%E7%BD%91/%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8/3%E3%80%81IPSec%20%E5%8D%8F%E8%AE%AE.md'> 3、IPSec 协议 </a>
 
 ### 编译原理
-正在进行 ...
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E7%BC%96%E8%AF%91%E5%8F%8A%E5%85%B6%E6%B5%81%E7%A8%8B%E6%A6%82%E8%BF%B0.md'>编译及其流程概述</a>
+
+前端
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E5%89%8D%E7%AB%AF/1%E3%80%81%E8%AF%8D%E6%B3%95%E5%8F%8A%E5%88%86%E6%9E%90%E4%B8%8E%E6%9C%89%E9%99%90%E8%87%AA%E5%8A%A8%E6%9C%BA.md'>  1、词法及分析与有限自动机</a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E5%89%8D%E7%AB%AF/2%E3%80%81%E8%AF%8D%E6%B3%95%20DFA%20%E5%8F%8A%E5%88%86%E6%9E%90%E5%99%A8%E6%9E%84%E9%80%A0.md'> 2、词法 DFA 及分析器构造 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E5%89%8D%E7%AB%AF/3%E3%80%81%E8%AF%AD%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E4%B8%8A%E4%B8%8B%E6%96%87%E6%97%A0%E5%85%B3%E6%96%87%E6%B3%95.md'> 3、语法分析与上下文无关文法 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E5%89%8D%E7%AB%AF/4%E3%80%81%E8%87%AA%E4%B8%8A%E8%80%8C%E4%B8%8B%E5%88%86%E6%9E%90%E6%B3%95%E4%B8%8E%20LL(1)%20%E6%96%87%E6%B3%95'> 4、自上而下分析法与 LL(1) 文法 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E5%89%8D%E7%AB%AF/5%E3%80%81%E8%87%AA%E4%B8%8B%E8%80%8C%E4%B8%8A%E5%88%86%E6%9E%90%E6%B3%95%E4%B8%8E%20LR(0)%20%E6%96%87%E6%B3%95.md'> 5、自下而上分析法与 LR(0) 文法 </a>
+
+中间代码
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E4%B8%AD%E9%97%B4%E4%BB%A3%E7%A0%81/1%E3%80%81%E8%AF%AD%E4%B9%89%E5%88%86%E6%9E%90%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%A3%E7%A0%81%E3%80%81%E7%AC%A6%E5%8F%B7%E8%A1%A8.md'>1、语义分析与中间代码、符号表  </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E4%B8%AD%E9%97%B4%E4%BB%A3%E7%A0%81/2%E3%80%81%E5%8F%98%E9%87%8F%E4%B8%8E%E8%BF%87%E7%A8%8B%E7%BF%BB%E8%AF%91.md'> 2、变量与过程翻译 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E4%B8%AD%E9%97%B4%E4%BB%A3%E7%A0%81/3%E3%80%81%E7%AE%97%E6%9C%AF%E8%A1%A8%E8%BE%BE%E5%BC%8F%E4%B8%8E%E6%95%B0%E7%BB%84%E5%85%83%E7%B4%A0%E7%BF%BB%E8%AF%91.md'> 3、算术表达式与数组元素翻译 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E4%B8%AD%E9%97%B4%E4%BB%A3%E7%A0%81/4%E3%80%81%E5%B8%83%E5%B0%94%E8%A1%A8%E8%BE%BE%E5%BC%8F%E5%8F%8A%E6%8E%A7%E5%88%B6%E8%AF%AD%E5%8F%A5%E7%BF%BB%E8%AF%91.md'> 4、布尔表达式及控制语句翻译 </a>
+
+后端
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E5%90%8E%E7%AB%AF/%E7%9B%AE%E6%A0%87%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E4%B8%8E%E4%BC%98%E5%8C%96.md'>目标代码生成与优化  </a>
 
 ## 4、软工与算法
 ### 软件工程
