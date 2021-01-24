@@ -348,10 +348,6 @@ Linux IO 特性
 后续步骤
 * <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/10%E3%80%81%E7%BB%B4%E6%8A%A4%E3%80%81%E8%AF%84%E4%BC%B0%E4%B8%8E%E6%94%B9%E8%BF%9B.md'>维护、评估与改进</a>
 
-
-### 软件体系结构
-正在进行 ...
-
 ### Leetcode 典例
 正在进行 ...
 
