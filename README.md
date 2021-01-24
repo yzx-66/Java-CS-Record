@@ -330,7 +330,7 @@ Linux IO 特性
 后端
 * <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E5%90%8E%E7%AB%AF/%E7%9B%AE%E6%A0%87%E4%BB%A3%E7%A0%81%E7%94%9F%E6%88%90%E4%B8%8E%E4%BC%98%E5%8C%96.md'>目标代码生成与优化  </a>
 
-## 4、软工与算法
+## 4、软件与算法
 ### 软件工程
 正在进行 ...
 
