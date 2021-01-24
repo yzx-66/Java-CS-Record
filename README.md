@@ -332,7 +332,17 @@ Linux IO 特性
 
 ## 4、软件与算法
 ### 软件工程
-正在进行 ...
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/1%E3%80%81%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E6%A6%82%E8%BF%B0.md'> 1、软件工程概述 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/2%E3%80%81%E8%BD%AF%E4%BB%B6%E8%BF%87%E7%A8%8B%E6%A8%A1%E5%9E%8B.md'> 2、软件过程模型 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/3%E3%80%81%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E4%B8%8E%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86.md'> 3、软件开发与项目管理 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/4%E3%80%81%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90%E8%8E%B7%E5%8F%96.md'> 4、需求分析获取 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/5%E3%80%81%E9%9C%80%E6%B1%82%E5%BB%BA%E6%A8%A1%E8%A1%A8%E7%A4%BA%E6%B3%95.md'>5、需求建模表示法  </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/6%E3%80%81%E8%BD%AF%E4%BB%B6%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1.md'>6、软件体系结构设计 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/7%E3%80%81%E6%A8%A1%E5%9D%97%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%B3%95.md'> 7、模块设计方法 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/8%E3%80%81%E7%A8%8B%E5%BA%8F%E7%BC%96%E5%86%99%E4%B8%8E%E6%B5%8B%E8%AF%95%E7%A8%8B%E5%BA%8F.md'>  8、程序编写与测试程序</a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/9%E3%80%81%E5%AE%8C%E6%95%B4%E6%B5%8B%E8%AF%95%E7%B3%BB%E7%BB%9F.md'> 9、完整测试系统 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/10%E3%80%81%E7%BB%B4%E6%8A%A4%E3%80%81%E8%AF%84%E4%BC%B0%E4%B8%8E%E6%94%B9%E8%BF%9B.md'>10、维护、评估与改进</a>
+
 
 ### 软件体系结构
 正在进行 ...
