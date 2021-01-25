@@ -337,7 +337,7 @@ Linux IO 特性
 * <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/2%E3%80%81%E8%BD%AF%E4%BB%B6%E8%BF%87%E7%A8%8B%E6%A8%A1%E5%9E%8B.md'> 2、软件过程模型 </a>
 * <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/3%E3%80%81%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E4%B8%8E%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86.md'> 3、软件开发与项目管理 </a>
 
-开发
+项目
 * <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/4%E3%80%81%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90%E8%8E%B7%E5%8F%96.md'> 1、需求分析获取 </a>
 * <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/5%E3%80%81%E9%9C%80%E6%B1%82%E5%BB%BA%E6%A8%A1%E8%A1%A8%E7%A4%BA%E6%B3%95.md'>2、需求建模表示法  </a>
 * <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/6%E3%80%81%E8%BD%AF%E4%BB%B6%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1.md'>6、软件体系结构设计 </a>
