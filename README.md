@@ -319,7 +319,7 @@ Linux IO 特性
 * <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E5%89%8D%E7%AB%AF/2%E3%80%81%E8%AF%8D%E6%B3%95%20DFA%20%E5%8F%8A%E5%88%86%E6%9E%90%E5%99%A8%E6%9E%84%E9%80%A0.md'> 2、词法 DFA 及分析器构造 </a>
 * <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E5%89%8D%E7%AB%AF/3%E3%80%81%E8%AF%AD%E6%B3%95%E5%88%86%E6%9E%90%E4%B8%8E%E4%B8%8A%E4%B8%8B%E6%96%87%E6%97%A0%E5%85%B3%E6%96%87%E6%B3%95.md'> 3、语法分析与上下文无关文法 </a>
 * <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E5%89%8D%E7%AB%AF/4%E3%80%81%E8%87%AA%E4%B8%8A%E8%80%8C%E4%B8%8B%E5%88%86%E6%9E%90%E6%B3%95%E4%B8%8E%20LL(1)%20%E6%96%87%E6%B3%95'> 4、自上而下分析法与 LL(1) 文法 </a>
-* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E5%89%8D%E7%AB%AF/5%E3%80%81%E8%87%AA%E4%B8%8B%E8%80%8C%E4%B8%8A%E5%88%86%E6%9E%90%E6%B3%95%E4%B8%8E%20LR(0)%20%E6%96%87%E6%B3%95.md'> 5、自下而上分析法与 LR(0) 文法 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E5%89%8D%E7%AB%AF/5%E3%80%81%E8%87%AA%E4%B8%8B%E8%80%8C%E4%B8%8A%E5%88%86%E6%9E%90%E6%B3%95%E4%B8%8E%20LR(0)%20%E6%96%87%E6%B3%95.md'> 5、自下而上分析法与 LR(1) 文法 </a>
 
 中间代码
 * <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86/%E4%B8%AD%E9%97%B4%E4%BB%A3%E7%A0%81/1%E3%80%81%E8%AF%AD%E4%B9%89%E5%88%86%E6%9E%90%E4%B8%8E%E4%B8%AD%E9%97%B4%E4%BB%A3%E7%A0%81%E3%80%81%E7%AC%A6%E5%8F%B7%E8%A1%A8.md'>1、语义分析与中间代码、符号表  </a>
