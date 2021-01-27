@@ -332,21 +332,26 @@ Linux IO 特性
 
 ## 4、软件与算法
 ### 软件工程
-工程化
+概述
 * <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/1%E3%80%81%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B%E6%A6%82%E8%BF%B0.md'> 1、软件工程概述 </a>
-* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/2%E3%80%81%E8%BD%AF%E4%BB%B6%E8%BF%87%E7%A8%8B%E6%A8%A1%E5%9E%8B.md'> 2、软件过程模型 </a>
-* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/3%E3%80%81%E8%BD%AF%E4%BB%B6%E5%BC%80%E5%8F%91%E4%B8%8E%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86.md'> 3、软件开发与项目管理 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/2%E3%80%81%E8%BD%AF%E4%BB%B6%E8%BF%87%E7%A8%8B%E6%A8%A1%E5%9E%8B.md'>2、软件过程模型  </a>
 
-项目
-* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/4%E3%80%81%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90%E8%8E%B7%E5%8F%96.md'> 1、需求分析获取 </a>
-* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/5%E3%80%81%E9%9C%80%E6%B1%82%E5%BB%BA%E6%A8%A1%E8%A1%A8%E7%A4%BA%E6%B3%95.md'>2、需求建模表示法  </a>
-* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/6%E3%80%81%E8%BD%AF%E4%BB%B6%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84%E8%AE%BE%E8%AE%A1.md'>6、软件体系结构设计 </a>
-* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/7%E3%80%81%E6%A8%A1%E5%9D%97%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%B3%95.md'> 3、模块设计方法 </a>
-* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/8%E3%80%81%E7%A8%8B%E5%BA%8F%E7%BC%96%E5%86%99%E4%B8%8E%E6%B5%8B%E8%AF%95%E7%A8%8B%E5%BA%8F.md'>  4、程序编写与测试程序</a>
-* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/9%E3%80%81%E5%AE%8C%E6%95%B4%E6%B5%8B%E8%AF%95%E7%B3%BB%E7%BB%9F.md'> 5、完整测试系统 </a>
+工程流程
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/3%E3%80%81%E7%BB%93%E6%9E%84%E5%8C%96%E9%9C%80%E6%B1%82%E5%88%86%E6%9E%90.md'>1、结构化需求分析  </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/4%E3%80%81%E7%BB%93%E6%9E%84%E5%8C%96%E6%80%BB%E4%BD%93%E8%AE%BE%E8%AE%A1.md'> 2、结构化总体设计 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/5%E3%80%81%E7%BB%93%E6%9E%84%E5%8C%96%E8%AF%A6%E7%BB%86%E8%AE%BE%E8%AE%A1.md'>3、结构化详细设计  </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/6%E3%80%81%E7%B3%BB%E7%BB%9F%E5%AE%9E%E7%8E%B0%E4%B8%8E%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95.md'> 4、系统实现与软件测试 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/7%E3%80%81%E7%BB%B4%E6%8A%A4%E3%80%81%E8%AF%84%E4%BC%B0%E3%80%81%E6%94%B9%E8%BF%9B.md'>5、维护、评估、改进 </a>
 
-后续
-* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/10%E3%80%81%E7%BB%B4%E6%8A%A4%E3%80%81%E8%AF%84%E4%BC%B0%E4%B8%8E%E6%94%B9%E8%BF%9B.md'>维护、评估与改进</a>
+面向对象
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/8%E3%80%81%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%96%B9%E6%B3%95%E5%AD%A6.md'>  1、面向对象方法学</a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/9%E3%80%81%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%88%86%E6%9E%90.md'> 2、面向对象分析 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/10%E3%80%81%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E8%AE%BE%E8%AE%A1.md'> 3、面向对象设计 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/11%E3%80%81%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E5%AE%9E%E7%8E%B0%E9%A3%8E%E6%A0%BC.md'> 4、面向对象实现风格 </a>
+
+管理
+* <a href ='https://github.com/yzx66-net/Java-CS-Note/blob/main/%E8%BD%AF%E4%BB%B6%E5%B7%A5%E7%A8%8B/12%E3%80%81%E8%BD%AF%E4%BB%B6%E9%A1%B9%E7%9B%AE%E7%AE%A1%E7%90%86.md'> 软件项目管理 </a>
+
 
 ### Leetcode 典例
 正在进行 ...
