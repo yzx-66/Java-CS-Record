@@ -433,7 +433,7 @@ Linux IO 特性
 * <a href="https://book.douban.com/subject/27038538/comments/"> Netty实战 </a>：我一般不看实战书的，但是 Netty 的书太少了，以为有源码，结果一点没提，不过 Netty 用法讲的确实比网课好。
 * <a href="https://book.douban.com/subject/25863515/comments/"> 图解HTTP</a>：比较浅，看这个是因为 HTTP 权威指南太厚，不过比一般大学教材 HTTP 部分讲的多。
 * <a href="https://book.douban.com/subject/24737674/comments/"> 图解TCP/IP</a>：当时看的入门书，如果想深入学一下，还是推荐计网的教材或者其他书籍。
-* <a href="https://book.douban.com/subject/27091029/comments/"> 分布式服务架构：原理、设计与实战</a>：架构没讲什么，但第二章分布式事务还有日志框架和计算服务器性能那写的不错，其他部分还是凑数。
+* <a href="https://book.douban.com/subject/27091029/comments/"> 分布式服务架构：原理、设计与实战</a>：架构没讲什么，说了点分布式的问题，分布式事务、性能估算还有日志框架啥的还行，最后几章完全凑数。
 
 ### 比较一般
 * <a href="https://book.douban.com/subject/25723064/comments/"> 大型网站技术结构</a>：扫盲书，三天就看完了，建立个概念而已。
