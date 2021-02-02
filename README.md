@@ -433,11 +433,11 @@ Linux IO 特性
 * <a href="https://book.douban.com/subject/27038538/comments/"> Netty实战 </a>：我一般不看实战书的，但是 Netty 的书太少了，以为有源码，结果一点没提，不过 Netty 用法讲的确实比网课好。
 * <a href="https://book.douban.com/subject/25863515/comments/"> 图解HTTP</a>：比较浅，看这个是因为 HTTP 权威指南太厚，不过比一般大学教材 HTTP 部分讲的多。
 * <a href="https://book.douban.com/subject/24737674/comments/"> 图解TCP/IP</a>：当时看的入门书，如果想深入学一下，还是推荐计网的教材或者其他书籍。
-* <a href="https://book.douban.com/subject/27091029/comments/"> 分布式服务架构：原理、设计与实战</a>：第二章分布式事务还有日志框架和计算服务器性能那写的不错，其他部分还是凑数。
+* <a href="https://book.douban.com/subject/27091029/comments/"> 分布式服务架构：原理、设计与实战</a>：架构没讲什么，但第二章分布式事务还有日志框架和计算服务器性能那写的不错，其他部分还是凑数。
 
 ### 比较一般
 * <a href="https://book.douban.com/subject/25723064/comments/"> 大型网站技术结构</a>：扫盲书，三天就看完了，建立个概念而已。
-* <a href="https://book.douban.com/subject/26702824/comments/"> 分布式服务框架：原理与实践</a>：比较一般，就讲了下微服务框架设计时的几个关键点，总体比较宏观一些。
+* <a href="https://book.douban.com/subject/26702824/comments/"> 分布式服务框架：原理与实践</a>：讲咋设计微服务框架的，比较一般，就讲了下微服务框架的几个关键点，总体比较宏观一些。
 * <a href="https://book.douban.com/subject/25723658/comments/"> 大规模分布式存储系统</a>：分布式入门书，讲的分布式存储系统的宏观架构，并没有一些具体的细节，还讲了一些 OceanBase 基本原理。
 * <a href="https://book.douban.com/subject/30386800/comments/"> Elasticsearch源码解析与优化实战</a>：叫源码解析，冲着核心源码去看的，结果没啥源码，讲的都是模块。
 * <a href="https://book.douban.com/subject/26919457/comments/"> 代码简洁之道：程序员的职业素养</a>：总体还行，存在部分观点很不认可，有点教条主义与理想化，尤其程序员对抗加班，还有什么必须完全 TDD。
