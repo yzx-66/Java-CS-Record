@@ -410,10 +410,10 @@ Linux IO 特性
 * <a href="https://book.douban.com/subject/25900156/comments/">Redis设计与实现</a>：也是刷了两次，我看过最深入浅出的书，一点没有门槛，看完觉得 Redis 非常明了。
 * <a href="https://book.douban.com/subject/30391722/comments/"> 操作系统原理、实现与实践</a>：哈工大老师出品，除实践部分看了两次，围绕 Linux 作为原理的现实，注重抠细节，特别厉害。
 * <a href="https://book.douban.com/subject/4199741/comments/"> 代码整洁之道</a>：绝大部分观点都认可，很多观点都让人佩服，比如代码要短小精悍，还要可以自解释等等。
-* <a href="https://book.douban.com/subject/26292004/comments/">从Paxos到Zookeeper </a>：豆瓣7.7，但是我认为是好书，不过 Paxos 那块讲的不是很清楚，还需要配合博客看看。
 * <a href="https://book.douban.com/subject/27087564/comments/">Mybatis技术内幕</a>：好书，从模块讲起，再讲处理流程，主干清晰明了，源码也讲的清楚。
 * <a href="https://book.douban.com/subject/10426640/comments/">深入刨析Tomcat</a>：读过最好的源码书，没有之一，从假设自己要设计一个服务器出发，然后分析 Tomcat 完善自己的服务器。
 * <a href="https://book.douban.com/subject/24708143/comments/"> MySQL技术内幕：</a>看这本书之前最好懂操作系统，不然很难受，而且第一章提的很多东西后面才讲，但确实是好书。
+* <a href="https://book.douban.com/subject/26292004/comments/">从Paxos到Zookeeper </a>：豆瓣7.7，但是我认为是好书，不过 Paxos 那块讲的不是很清楚，还需要配合博客看看。
 * <a href="https://book.douban.com/subject/33425123/comments/">微服务架构设计模式 </a>：好书，改变了我对微服务的看法，微服务根本不是用个 Dubbo 或者 SpringCloud 的事。
 
 
@@ -429,11 +429,11 @@ Linux IO 特性
 ### 可以看看
 * <a href="https://book.douban.com/subject/30452948/comments/">Spring源码深度解析（第二版）</a>：当时读的时候豆瓣 5.9 分，倒不是说不好，只是对第一次看源码的新手不太友好，而且确实绝大部分照搬第一版。
 * <a href="https://book.douban.com/subject/34455777/comments/"> 深入理解Apache Dubbo与实战</a>：是我读过的源码书里不算好的，讲的不透彻，但拓展点还有 RPC 策略那讲的确实还行。
-* <a href="https://book.douban.com/subject/27091029/comments/"> 分布式服务架构：原理、设计与实战</a>：第二章分布式事务还有日志框架和计算服务器性能那写的不错，其他部分还是凑数。
 * <a href="https://book.douban.com/subject/25953851/comments/"> 深入分析Java Web技术内幕（修订版）</a>：如果看了我说的其他书，这本书完全没必要看，各个模块讲的很浅，但要想快速了解一下可以看看。
 * <a href="https://book.douban.com/subject/27038538/comments/"> Netty实战 </a>：我一般不看实战书的，但是 Netty 的书太少了，以为有源码，结果一点没提，不过 Netty 用法讲的确实比网课好。
 * <a href="https://book.douban.com/subject/25863515/comments/"> 图解HTTP</a>：比较浅，看这个是因为 HTTP 权威指南太厚，不过比一般大学教材 HTTP 部分讲的多。
 * <a href="https://book.douban.com/subject/24737674/comments/"> 图解TCP/IP</a>：当时看的入门书，如果想深入学一下，还是推荐计网的教材或者其他书籍。
+* <a href="https://book.douban.com/subject/27091029/comments/"> 分布式服务架构：原理、设计与实战</a>：第二章分布式事务还有日志框架和计算服务器性能那写的不错，其他部分还是凑数。
 
 ### 比较一般
 * <a href="https://book.douban.com/subject/25723064/comments/"> 大型网站技术结构</a>：扫盲书，三天就看完了，建立个概念而已。
