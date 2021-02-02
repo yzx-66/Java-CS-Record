@@ -403,36 +403,41 @@ Linux IO 特性
 * 可以看看：代表我认为还是有一定缺陷的书，不是讲的不特别清楚，就是有点泛或者浅。
 * 比较一般：代表我认为大概率读完学不到什么东西的，或者我不太认可的。
 
+链接是豆瓣中的点评，避免我一家之言！
+
 ### 万分力荐
-* <<深入理解Java虚拟机（第3版）>>：无需多言，刷了两次。
-* <<Redis设计与实现>>：也是刷了两次，我看过最深入浅出的书，一点没有门槛，看完觉得 Redis 非常明了。
-* <<操作系统原理、实现与实践>>：哈工大老师出品，除实践部分看了两次，围绕 Linux 作为原理的现实，注重抠细节，特别厉害。
-* <<从Paxos到Zookeeper>>：豆瓣7.7，但是我认为是好书，不过 Paxos 那块讲的不是很清楚，还需要配合博客看看。
-* <<Mybatis技术内幕>>：好书，从模块讲起，再讲处理流程，主干清晰明了，源码也讲的清楚。
-* <<深入刨析Tomcat>>：读过最好的源码书，没有之一，从假设自己要设计一个服务器出发，然后分析 Tomcat 完善自己的服务器。
-* <<MySQL技术内幕>>：看这本书之前最好懂操作系统，不然很难受，而且第一章提的很多东西后面才讲，但确实是好书。
-* <<微服务架构设计模式>>：好书，改变了我对微服务的看法，微服务根本不是一个 Dubbo 或者 SpringCloud 的事。
-* <<代码整洁之道>>：绝大部分观点都认可，尤其代码要短小精悍，还要可以自解释，说的都很让人佩服。
+* <a href="https://book.douban.com/subject/34907497/comments/"> 深入理解Java虚拟机（第3版）</a>：无需多言，刷了两次。
+* <a href="https://book.douban.com/subject/25900156/comments/">Redis设计与实现</a>：也是刷了两次，我看过最深入浅出的书，一点没有门槛，看完觉得 Redis 非常明了。
+* <a href="https://book.douban.com/subject/30391722/comments/"> 操作系统原理、实现与实践</a>：哈工大老师出品，除实践部分看了两次，围绕 Linux 作为原理的现实，注重抠细节，特别厉害。
+* <a href="https://book.douban.com/subject/4199741/comments/"> 代码整洁之道</a>：绝大部分观点都认可，尤其代码要短小精悍，还要可以自解释，说的都很让人佩服。
+* <a href="https://book.douban.com/subject/26292004/comments/">从Paxos到Zookeeper </a>：豆瓣7.7，但是我认为是好书，不过 Paxos 那块讲的不是很清楚，还需要配合博客看看。
+* <a href="https://book.douban.com/subject/27087564/comments/">Mybatis技术内幕</a>：好书，从模块讲起，再讲处理流程，主干清晰明了，源码也讲的清楚。
+* <a href="https://book.douban.com/subject/10426640/comments/">深入刨析Tomcat</a>：读过最好的源码书，没有之一，从假设自己要设计一个服务器出发，然后分析 Tomcat 完善自己的服务器。
+* <a href="https://book.douban.com/subject/24708143/comments/"> MySQL技术内幕：</a>看这本书之前最好懂操作系统，不然很难受，而且第一章提的很多东西后面才讲，但确实是好书。
+* <a href="https://book.douban.com/subject/33425123/comments/">微服务架构设计模式 </a>：好书，改变了我对微服务的看法，微服务根本不是一个 Dubbo 或者 SpringCloud 的事。
+
 
 ### 比较推荐
-* <<Effective Java>>：列了 90 条，核心感觉还是讲怎么用 Java 写更健壮和灵活的程序，写得还算不错。
-* <<Java并发编程艺术>>：这本书讲述顺序就是按照内存模型->synchronized->源码，我觉得有一定深度，但是开头两章有点劝退。
-* <<Spring Boot编程思想>>：豆瓣评分较低 6.5，但是我觉得把 SpringBoot 比较核心的部分都讲了，就是确实凑字数太明显，啥都贴。
-* <<RocketMQ技术内幕>>：豆瓣评分较低 6.9，不过我觉得主要原因可能把 Client 还有 Server 串着讲，阅读体验确实差，但内容尚可吧。
-* <<RabbitMQ实战指南>>：远超我的期望，冲着如何实现去的，实战书里少有的既有实战又有深度。
+* <a href="https://book.douban.com/subject/30412517/comments/">Effective Java中文版（第3版）</a>：列了 90 条，核心感觉还是讲怎么用 Java 写更健壮和灵活的程序，写得还算不错
+* <a href="https://book.douban.com/subject/26591326/comments/"> Java并发编程艺术</a>：这本书讲述顺序就是按照内存模型->synchronized->源码，总体觉得还不错，但是开头两章有点劝退。
+* <a href="https://book.douban.com/subject/33390560/comments/">Spring Boot编程思想（核心篇）</a>：豆瓣评分较低 6.5，但是我觉得把 SpringBoot 比较核心的部分都讲了，就是确实凑字数太明显，啥都贴。
+* <a href="https://book.douban.com/subject/30417623/comments/"> RocketMQ技术内幕</a>：豆瓣评分较低 6.9，不过我觉得主要原因可能把 Client 还有 Server 串着讲，阅读体验确实差，但内容尚可吧。
+* <a href="https://book.douban.com/subject/27591386/comments/">RabbitMQ实战指南</a>：远超我的期望，冲着如何实现去的，实战书里少有的既有实战又有深度。
   
+
+
 ### 可以看看
-* <<Spring源码深度解析（第二版）>>：当时读的时候豆瓣 5.9 分，倒不是说不好，只是对第一次看源码的新手不太友好，而且确实绝大部分照搬第一版。
-* <<深入理解Apache Dubbo与实战>>：是我读过的源码书里不算好的，讲的不透彻，但拓展点那讲的确实还行。
-* <<分布式服务架构：原理、设计与实战>>：第二章分布式事务还有日志框架和计算服务器性能那写的不错，其他部分还是凑数。
-* <<深入分析Java Web技术内幕（修订版）>>：如果看了我说的其他书，这本书完全没必要看，各个模块讲的很浅，但要想快速了解一下可以看看。
-* <<Netty 实战>>：我一般不看实战书的，但是 Netty 的书太少了，以为有源码，结果一点没提，不过确实比以前看网课更会用 Netty。
-* <<图解HTTP>>：比较浅，看这个是因为 HTTP 权威指南太厚，不过比一般大学教材 HTTP 部分讲的多。
-* <<图解TCP/IP>>：当时看的入门书，如果想深入学一下，还是推荐计网的教材或者其他书籍。
+* <a href="https://book.douban.com/subject/30452948/comments/">Spring源码深度解析（第二版）</a>：当时读的时候豆瓣 5.9 分，倒不是说不好，只是对第一次看源码的新手不太友好，而且确实绝大部分照搬第一版。
+* <a href="https://book.douban.com/subject/34455777/comments/"> 深入理解Apache Dubbo与实战</a>：是我读过的源码书里不算好的，讲的不透彻，但拓展点还有 RPC 策略那讲的确实还行。
+* <a href="https://book.douban.com/subject/27091029/comments/"> 分布式服务架构：原理、设计与实战</a>：第二章分布式事务还有日志框架和计算服务器性能那写的不错，其他部分还是凑数。
+* <a href="https://book.douban.com/subject/25953851/comments/"> 深入分析Java Web技术内幕（修订版）</a>：如果看了我说的其他书，这本书完全没必要看，各个模块讲的很浅，但要想快速了解一下可以看看。
+* <a href="https://book.douban.com/subject/27038538/comments/"> Netty 实战 </a>：我一般不看实战书的，但是 Netty 的书太少了，以为有源码，结果一点没提，不过 Netty 使用讲的确实比网课好。
+* <a href="https://book.douban.com/subject/25863515/comments/"> 图解HTTP</a>：比较浅，看这个是因为 HTTP 权威指南太厚，不过比一般大学教材 HTTP 部分讲的多。
+* <a href="https://book.douban.com/subject/24737674/comments/"> 图解TCP/IP</a>：当时看的入门书，如果想深入学一下，还是推荐计网的教材或者其他书籍。
 
 ### 比较一般
-* <<大型网站技术结构>>：扫盲书，三天就看完了，建立个概念而已。
-* <<分布式服务框架：原理与实践>>：比较一般，就讲了下微服务框架设计时的几个关键点，总体比较宏观一些。
-* <<大规模分布式存储系统>>：分布式入门书，讲的分布式存储系统的宏观架构，并没有一些具体的细节，还讲了一些 OceanBase 基本原理。
-* <<Elasticsearch源码解析与优化实战>>：叫源码解析，冲着核心源码去看的，结果没啥源码，讲的都是模块。
-* <<代码简洁之道：程序员的职业素养>>：总体还行，两日读完，存在部分观点很不认可，尤其程序员对抗加班，还有什么必须 TDD。
+* <a href="https://book.douban.com/subject/25723064/comments/"> 大型网站技术结构</a>：扫盲书，三天就看完了，建立个概念而已。
+* <a href="https://book.douban.com/subject/26702824/comments/"> 分布式服务框架：原理与实践</a>：比较一般，就讲了下微服务框架设计时的几个关键点，总体比较宏观一些。
+* <a href="https://book.douban.com/subject/25723658/comments/"> 大规模分布式存储系统</a>：分布式入门书，讲的分布式存储系统的宏观架构，并没有一些具体的细节，还讲了一些 OceanBase 基本原理。
+* <a href="https://book.douban.com/subject/30386800/comments/"> Elasticsearch源码解析与优化实战</a>：叫源码解析，冲着核心源码去看的，结果没啥源码，讲的都是模块。
+* <a href="https://book.douban.com/subject/26919457/comments/"> 代码简洁之道：程序员的职业素养</a>：总体还行，两日读完，存在部分观点很不认可，尤其程序员对抗加班，还有什么必须 TDD。
