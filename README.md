@@ -401,9 +401,9 @@ Linux IO 特性
 * 万分力荐：代表我认为特别好的，如果想读些 Java 相关的书，建议一定读我里面罗列的，绝对物超所值。
 * 比较推荐：代表我认为的好书，看完确实可以学到东西那种，但算不上特别好，不过确实值得一读。
 * 可以看看：代表我认为还是有一定缺陷的书，不是讲的不特别清楚，就是有点泛或者浅。
-* 比较一般：代表我认为大概率读完学不到什么东西的，或者我不太认可的。
+* 比较一般：代表我读完后收获较小的书，或者主观上不是很喜欢的书，并不代表里面的书一定不好。
 
-链接是豆瓣中的点评，避免我一家之言！
+**链接是豆瓣中该书的所有短评，避免我的一家之言！**
 
 ### 万分力荐
 * <a href="https://book.douban.com/subject/34907497/comments/"> 深入理解Java虚拟机（第3版）</a>：无需多言，刷了两次。
@@ -414,7 +414,7 @@ Linux IO 特性
 * <a href="https://book.douban.com/subject/27087564/comments/">Mybatis技术内幕</a>：好书，从模块讲起，再讲处理流程，主干清晰明了，源码也讲的清楚。
 * <a href="https://book.douban.com/subject/10426640/comments/">深入刨析Tomcat</a>：读过最好的源码书，没有之一，从假设自己要设计一个服务器出发，然后分析 Tomcat 完善自己的服务器。
 * <a href="https://book.douban.com/subject/24708143/comments/"> MySQL技术内幕：</a>看这本书之前最好懂操作系统，不然很难受，而且第一章提的很多东西后面才讲，但确实是好书。
-* <a href="https://book.douban.com/subject/33425123/comments/">微服务架构设计模式 </a>：好书，改变了我对微服务的看法，微服务根本不是一个 Dubbo 或者 SpringCloud 的事。
+* <a href="https://book.douban.com/subject/33425123/comments/">微服务架构设计模式 </a>：好书，改变了我对微服务的看法，微服务根本不是用个 Dubbo 或者 SpringCloud 的事。
 
 
 ### 比较推荐
