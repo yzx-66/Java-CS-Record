@@ -396,7 +396,7 @@ Linux IO 特性
 
 
 # 附录
-## 书籍记录与推荐（不含教材）
+## 书籍记录与推荐
 仅代表我读完后的个人观点（只有力荐里的与豆瓣评分无冲突，几乎都是高分）
 * 万分力荐：代表我认为特别好的，如果想读些 Java 相关的书，建议一定读我里面罗列的，绝对物超所值。
 * 比较推荐：代表我认为的好书，看完确实可以学到东西那种，但算不上特别好，不过还是很值得一读。
@@ -423,7 +423,8 @@ Linux IO 特性
 * <a href="https://book.douban.com/subject/33390560/comments/">Spring Boot编程思想（核心篇）</a>：豆瓣评分较低 6.5，但是我觉得把 SpringBoot 比较核心的部分都讲了，就是确实凑字数太明显，啥都贴。
 * <a href="https://book.douban.com/subject/30417623/comments/"> RocketMQ技术内幕</a>：豆瓣评分较低 6.9，不过我觉得主要原因可能把 Client 还有 Server 串着讲，阅读体验确实差，但内容尚可吧。
 * <a href="https://book.douban.com/subject/27591386/comments/">RabbitMQ实战指南</a>：远超我的期望，冲着如何实现去的，实战书里少有的既有实战又有深度。
-  
+* <a href="https://book.douban.com/subject/30280001/comments/">计算机网络（原书第7版） </a>：不用多说，比教材易懂，也比教材讲的内容多，总体自顶向下，更容易理解点。
+ 
 
 
 ### 可以看看
