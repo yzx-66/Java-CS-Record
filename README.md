@@ -354,10 +354,48 @@ Linux IO 特性
 
 
 ### Leetcode 典例
-正在进行 ...
+数组
+* <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/LeetCode/%E6%95%B0%E7%BB%84/1%E3%80%81%E5%BF%AB%E6%85%A2%E6%8C%87%E9%92%88.md'> 1、快慢指针 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/LeetCode/%E6%95%B0%E7%BB%84/2%E3%80%81%E5%AF%B9%E6%92%9E%E6%8C%87%E9%92%88.md'> 2、对撞指针 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/LeetCode/%E6%95%B0%E7%BB%84/3%E3%80%81%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3.md'>3、滑动窗口  </a>
 
-### 数据结构与算法
-正在进行 ...
+链表
+* <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/LeetCode/%E9%93%BE%E8%A1%A8/1%E3%80%81%E5%BF%85%E4%BC%9A%E6%93%8D%E4%BD%9C.md'> 1、典型操作 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/LeetCode/%E9%93%BE%E8%A1%A8/2%E3%80%81%E8%99%9A%E6%8B%9F%E5%A4%B4%E8%8A%82%E7%82%B9.md'> 2、虚拟头节点 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/LeetCode/%E9%93%BE%E8%A1%A8/3%E3%80%81%E5%8F%8C%E6%8C%87%E9%92%88%E6%88%96%E5%9B%9E%E6%BA%AF.md'>3、双指针或回溯  </a>
+
+查找表
+* <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/LeetCode/%E6%9F%A5%E6%89%BE%E8%A1%A8/1%E3%80%81Set%20%E4%B8%8E%E6%BB%91%E5%8A%A8%E7%AA%97%E5%8F%A3.md'> 1、Set 与滑动窗口 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/LeetCode/%E6%9F%A5%E6%89%BE%E8%A1%A8/2%E3%80%81Map%20%E5%B8%B8%E8%A7%81%E5%85%B8%E4%BE%8B.md'> 2、Map 常见典例 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/LeetCode/%E6%9F%A5%E6%89%BE%E8%A1%A8/3%E3%80%81%E5%87%A0%E6%95%B0%E5%92%8C%E7%B3%BB%E5%88%97%E9%97%AE%E9%A2%98.md'> 3、几数和系列问题 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/LeetCode/%E6%9F%A5%E6%89%BE%E8%A1%A8/4%E3%80%81%E7%89%B9%E6%AE%8A%E9%94%AE%E5%80%BC%E9%80%89%E6%8B%A9.md'> 4、特殊键值选择 </a>
+
+栈、队列
+* <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/LeetCode/%E6%A0%88%E3%80%81%E9%98%9F%E5%88%97/1%E3%80%81%E6%A0%88%E5%B8%B8%E8%A7%81%E9%A2%98%E5%9E%8B.md'> 1、栈常见题型 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/LeetCode/%E6%A0%88%E3%80%81%E9%98%9F%E5%88%97/2%E3%80%81%E7%94%A8%E6%A0%88%E4%BB%A3%E6%9B%BF%E9%80%92%E5%BD%92.md'> 2、用栈代替递归 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/LeetCode/%E6%A0%88%E3%80%81%E9%98%9F%E5%88%97/3%E3%80%81%E9%98%9F%E5%88%97%E4%B8%8E%20BFS.md'> 3、队列与 BFS </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/LeetCode/%E6%A0%88%E3%80%81%E9%98%9F%E5%88%97/4%E3%80%81%E4%BC%98%E5%85%88%E9%98%9F%E5%88%97.md'> 4、优先队列 </a>
+
+二叉树
+* <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/LeetCode/%E4%BA%8C%E5%8F%89%E6%A0%91/1%E3%80%81%E5%85%B8%E5%9E%8B%E6%93%8D%E4%BD%9C.md'> 1、典型操作 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/LeetCode/%E4%BA%8C%E5%8F%89%E6%A0%91/2%E3%80%81%E7%A8%8D%E5%A4%8D%E6%9D%82%E9%80%92%E5%BD%92%E9%97%AE%E9%A2%98.md'>2、稍复杂递归问题  </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/LeetCode/%E4%BA%8C%E5%8F%89%E6%A0%91/3%E3%80%81%E4%BA%8C%E5%88%86%E6%90%9C%E7%B4%A2%E6%A0%91.md'>3、二分搜索树  </a>
+
+回溯
+* <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/LeetCode/%E5%9B%9E%E6%BA%AF/1%E3%80%81%E5%B8%B8%E8%A7%81%E5%85%B8%E4%BE%8B.md'> 1、常见典例 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/LeetCode/%E5%9B%9E%E6%BA%AF/2%E3%80%81%E6%8E%92%E5%88%97%E4%B8%8E%E7%BB%84%E5%90%88.md'>2、排列与组合  </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/LeetCode/%E5%9B%9E%E6%BA%AF/3%E3%80%81%E4%BA%8C%E7%BB%B4%E5%B9%B3%E9%9D%A2%E7%B1%BB%E5%9E%8B.md'>3、二维平面类型  </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/LeetCode/%E5%9B%9E%E6%BA%AF/4%E3%80%81N%20%E7%9A%87%E5%90%8E%E9%97%AE%E9%A2%98.md'> 4、N 皇后问题 </a>
+
+动态规划
+* <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/LeetCode/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/1%E3%80%81%E5%B8%B8%E8%A7%81%E9%A2%98%E5%9E%8B%EF%BC%88%E4%B8%8A%EF%BC%89.md'>  1、常见题型（上）</a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/LeetCode/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/2%E3%80%81%E5%B8%B8%E8%A7%81%E9%A2%98%E5%9E%8B%EF%BC%88%E4%B8%8B%EF%BC%89.md'>2、常见题型（下）  </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/LeetCode/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/3%E3%80%81%E8%83%8C%E5%8C%85%E9%97%AE%E9%A2%98%E7%B3%BB%E5%88%97.md'> 3、背包问题系列 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/LeetCode/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/4%E3%80%81LCS%20%E4%B8%8E%20LIS%20%E9%97%AE%E9%A2%98.md'>4、LCS 与 LIS 问题  </a>
+
+贪心算法
+* <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/LeetCode/%E8%B4%AA%E5%BF%83/%E5%B8%B8%E8%A7%81%E5%85%B8%E4%BE%8B.md'> 常见典例 </a>
+
 
 
 # 开发
