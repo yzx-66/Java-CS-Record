@@ -409,7 +409,7 @@ Linux IO 特性
 # 开发
 ## 1、常用技术
 ### Spring
-<a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/Spring/%E6%95%B4%E4%BD%93%E6%9E%B6%E6%9E%84%E5%8F%8A%E6%A8%A1%E5%9D%97%E4%BE%9D%E8%B5%96%E5%85%B3%E7%B3%BB.md'> 整体架构及模块依赖关系.md </a>
+<a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/Spring/%E6%95%B4%E4%BD%93%E6%9E%B6%E6%9E%84%E5%8F%8A%E6%A8%A1%E5%9D%97%E4%BE%9D%E8%B5%96%E5%85%B3%E7%B3%BB.md'> 整体架构及模块依赖关系 </a>
 
 IOC
 * <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/Spring/IOC/%E5%AE%9E%E4%BD%93Bean%E6%9E%84%E5%BB%BA%E6%96%B9%E5%BC%8F%EF%BC%88xml%E3%80%81JavaConfig%EF%BC%89%E5%8F%8A%E7%9B%B8%E5%85%B3%E9%85%8D%E7%BD%AE.md'>实体Bean构建方式（xml、JavaConfig）及相关配置 </a>
