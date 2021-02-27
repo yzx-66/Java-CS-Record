@@ -417,9 +417,12 @@ IOC
 * <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/Spring/IOC/2%E3%80%81%E5%88%9D%E5%A7%8B%E5%8C%96%E6%BA%90%E7%A0%81%E6%B5%81%E7%A8%8B%EF%BC%88%E4%B8%8A%EF%BC%89%E5%AE%9A%E4%BD%8D%20Resource.md'> 2、初始化源码流程（上）定位 Resource </a>
 * <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/Spring/IOC/3%E3%80%81%E5%88%9D%E5%A7%8B%E5%8C%96%E6%BA%90%E7%A0%81%E6%B5%81%E7%A8%8B%EF%BC%88%E4%B8%AD%EF%BC%89%E5%8A%A0%E8%BD%BD%20BeanDefinition.md'> 3、初始化源码流程（中）加载 BeanDefinition </a>
 * <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/Spring/IOC/4%E3%80%81%E5%88%9D%E5%A7%8B%E5%8C%96%E6%BA%90%E7%A0%81%E6%B5%81%E7%A8%8B%EF%BC%88%E4%B8%8B%EF%BC%89%E6%B3%A8%E5%86%8C%20BeanDefinition.md'> 4、初始化源码流程（下）注册 BeanDefinition </a>
-* <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/Spring/IOC/5%E3%80%81AnnotationConfigApplicationContext%20%E5%88%9D%E5%A7%8B%E5%8C%96%E6%BA%90%E7%A0%81.md'>  5、AnnotationConfigApplicationContext 初始化源码</a>
-* <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/Spring/IOC/6%E3%80%81%E6%BA%90%E7%A0%81%E6%B5%81%E7%A8%8B%E7%9A%84%E6%A0%B8%E5%BF%83%E7%B1%BB%E6%97%B6%E5%BA%8F%E5%9B%BE.md'> 6、源码流程的核心类时序图 </a>
+* <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/Spring/IOC/6%E3%80%81%E6%BA%90%E7%A0%81%E6%B5%81%E7%A8%8B%E7%9A%84%E6%A0%B8%E5%BF%83%E7%B1%BB%E6%97%B6%E5%BA%8F%E5%9B%BE.md'> 5、源码流程的核心类时序图 </a>
 
+注解驱动
+* <a href ='https://github.com/yzx-66/Java-CS-Record/blob/main/Spring/%E6%B3%A8%E8%A7%A3%E9%A9%B1%E5%8A%A8/1%E3%80%81%E6%B3%A8%E8%A7%A3%E9%A9%B1%E5%8A%A8%E5%8E%9F%E7%90%86%EF%BC%88%E4%B8%80%EF%BC%89%EF%BC%9A%E4%B8%A4%E7%B1%BB%E6%9E%84%E9%80%A0%E6%96%B9%E6%B3%95.md'> 1、注解驱动原理（一）：两类构造方法 </a>
+* <a href ='https://github.com/yzx-66/Java-CS-Record/blob/main/Spring/%E6%B3%A8%E8%A7%A3%E9%A9%B1%E5%8A%A8/2%E3%80%81%E6%B3%A8%E8%A7%A3%E9%A9%B1%E5%8A%A8%E5%8E%9F%E7%90%86%EF%BC%88%E4%BA%8C%EF%BC%89%EF%BC%9A%E4%BD%BF%E7%94%A8%20basePackages%20%E6%9E%84%E9%80%A0.md'> 2、注解驱动原理（二）：使用 basePackages 构造 </a>
+* <a href ='https://github.com/yzx-66/Java-CS-Record/blob/main/Spring/%E6%B3%A8%E8%A7%A3%E9%A9%B1%E5%8A%A8/3%E3%80%81%E6%B3%A8%E8%A7%A3%E9%A9%B1%E5%8A%A8%E5%8E%9F%E7%90%86%EF%BC%88%E4%B8%89%EF%BC%89%EF%BC%9A%E4%BD%BF%E7%94%A8%20annotatedClass%20%E6%9E%84%E9%80%A0.md'> 3、注解驱动原理（三）：使用 annotatedClass 构造 </a>
 
 DI
 * <a href ='https://github.com/yzx66-net/Java-CS-Record/blob/main/Spring/DI/%E5%9B%9B%E7%A7%8D%E4%BE%9D%E8%B5%96%E6%B3%A8%E5%85%A5%E6%96%B9%E5%BC%8F%EF%BC%88xml%E3%80%81%E6%B3%A8%E8%A7%A3%EF%BC%89.md'> 四种依赖注入方式（xml、注解） </a>
