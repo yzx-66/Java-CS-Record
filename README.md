@@ -470,7 +470,7 @@ MVC
 
 特性原理
 * <a href ='https://github.com/yzx-66/Java-CS-Record/blob/main/Mybatis/%E7%89%B9%E6%80%A7%E5%8E%9F%E7%90%86/1%E3%80%81Mapper%20%E6%B3%A8%E5%86%8C%E4%B8%8E%E7%BB%91%E5%AE%9A%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md'>1、Mapper 注册与绑定源码解析  </a>
-* <a href ='https://github.com/yzx-66/Java-CS-Record/blob/main/Mybatis/%E7%89%B9%E6%80%A7%E5%8E%9F%E7%90%86/2%E3%80%81%E5%8A%A8%E6%80%81%20SQL%20%E4%BD%BF%E7%94%A8.md'> 2、动态 SQL 使用 </a>
+* <a href ='https://github.com/yzx-66/Java-CS-Record/blob/main/Mybatis/%E7%89%B9%E6%80%A7%E5%8E%9F%E7%90%86/2%E3%80%81%E5%8A%A8%E6%80%81%20SQL%20%E4%BD%BF%E7%94%A8.md'> 2、动态 SQL 特性 </a>
 * <a href ='https://github.com/yzx-66/Java-CS-Record/blob/main/Mybatis/%E7%89%B9%E6%80%A7%E5%8E%9F%E7%90%86/3%E3%80%81%E5%8A%A8%E6%80%81%20SQL%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md'> 3、动态 SQL 源码解析 </a>
 * <a href ='https://github.com/yzx-66/Java-CS-Record/blob/main/Mybatis/%E7%89%B9%E6%80%A7%E5%8E%9F%E7%90%86/4%E3%80%81%E4%B8%80%E7%BA%A7%E3%80%81%E4%BA%8C%E7%BA%A7%E7%BC%93%E5%AD%98%E6%9C%BA%E5%88%B6.md'> 4、一级、二级缓存机制 </a>
 * <a href ='https://github.com/yzx-66/Java-CS-Record/blob/main/Mybatis/%E7%89%B9%E6%80%A7%E5%8E%9F%E7%90%86/6%E3%80%81%E6%8F%92%E4%BB%B6%E6%9C%BA%E5%88%B6%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md'> 6、插件机制源码解析 </a>
