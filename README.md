@@ -468,7 +468,7 @@ MVC
 * <a href ='https://github.com/yzx-66/Java-CS-Record/blob/main/Mybatis/%E6%89%A7%E8%A1%8C%E5%8E%9F%E7%90%86/5%E3%80%81%E6%89%A7%E8%A1%8C%E5%8E%9F%E7%90%86%EF%BC%88%E4%B8%89%EF%BC%89%EF%BC%9A%E8%8E%B7%E5%8F%96%E4%BB%A3%E7%90%86%E5%AF%B9%E8%B1%A1(MapperProxy)%20%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md'> 5、执行原理（三）：获取代理对象(MapperProxy) 源码分析 </a>
 * <a href ='https://github.com/yzx-66/Java-CS-Record/blob/main/Mybatis/%E6%89%A7%E8%A1%8C%E5%8E%9F%E7%90%86/6%E3%80%81%E6%89%A7%E8%A1%8C%E5%8E%9F%E7%90%86%EF%BC%88%E5%9B%9B%EF%BC%89%EF%BC%9AMapperProxy%E6%89%A7%E8%A1%8CSQL%E6%BA%90%E7%A0%81%E5%88%86%E6%9E%90.md'> 6、执行原理（四）：MapperProxy执行SQL源码分析 </a>
 
-特性及原理
+特性原理
 * <a href ='https://github.com/yzx-66/Java-CS-Record/blob/main/Mybatis/%E7%89%B9%E6%80%A7%E5%8E%9F%E7%90%86/1%E3%80%81Mapper%20%E6%B3%A8%E5%86%8C%E4%B8%8E%E7%BB%91%E5%AE%9A%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md'>1、Mapper 注册与绑定源码解析  </a>
 * <a href ='https://github.com/yzx-66/Java-CS-Record/blob/main/Mybatis/%E7%89%B9%E6%80%A7%E5%8E%9F%E7%90%86/2%E3%80%81%E5%8A%A8%E6%80%81%20SQL%20%E4%BD%BF%E7%94%A8.md'> 2、动态 SQL 使用 </a>
 * <a href ='https://github.com/yzx-66/Java-CS-Record/blob/main/Mybatis/%E7%89%B9%E6%80%A7%E5%8E%9F%E7%90%86/3%E3%80%81%E5%8A%A8%E6%80%81%20SQL%20%E6%BA%90%E7%A0%81%E8%A7%A3%E6%9E%90.md'> 3、动态 SQL 源码解析 </a>
