@@ -579,3 +579,5 @@ Spring 注解驱动
 * <a href="https://book.douban.com/subject/25723658/comments/"> 大规模分布式存储系统</a>：分布式入门书，讲的分布式存储系统的宏观架构，并没有一些具体的细节，还讲了一些 OceanBase 基本原理。
 * <a href="https://book.douban.com/subject/30386800/comments/"> Elasticsearch源码解析与优化实战</a>：叫源码解析，冲着核心源码去看的，结果没啥源码，讲的都是模块，而且也不够深入浅出。
 * <a href="https://book.douban.com/subject/26919457/comments/"> 代码简洁之道：程序员的职业素养</a>：总体还行，存在部分观点很不认可，有点教条主义与理想化，尤其程序员对抗加班，还有什么必须完全 TDD。
+
+That's ALL!
