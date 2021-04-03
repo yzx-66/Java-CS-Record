@@ -13,6 +13,8 @@
 
 最后，**欢迎 star 该项目，也欢迎使用、修改、与提出意见**，希望多多支持！
 
+后记：4.2 日收到阿里 offer，暂时停止更新！
+
 <p align="center">
   <img src="https://img.shields.io/badge/Java-%E5%90%8E%E5%8F%B0%E5%BC%80%E5%8F%91-yellowgreen">
   <img src="https://img.shields.io/badge/Content-%E5%8E%9F%E7%90%86%E6%BA%90%E7%A0%81-brightgreen">
